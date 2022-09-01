@@ -27,6 +27,6 @@ se muestra el error al tratar de asignar un boolean en el index 0
 
 const example: [boolean, string, number] = [ true, 'Dr. Strange', 100] 
 
-
+console.log(example)
 
 })()

@@ -17,4 +17,5 @@
     
     */
     const example = [true, 'Dr. Strange', 100];
+    console.log(example);
 })();
