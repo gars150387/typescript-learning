@@ -1,0 +1,17 @@
+(() => {
+
+
+
+let number: undefined = undefined
+
+
+
+
+
+
+
+
+
+
+
+})()
